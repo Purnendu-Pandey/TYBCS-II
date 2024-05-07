@@ -1,0 +1,1 @@
+Text semmerisation is an nlp technique that extract text from a large amount of data. It is the process of identifying the most meanigful information in a document and compressing it into a shorter version by preserving its meaning. @ $ Types 12 : Extractive Text Summerisation
